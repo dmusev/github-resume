@@ -2,7 +2,7 @@
 
 A mobile application built using React Native along with Expo
 
-![screenshots of example app](https://imgur.com/hHJu9KV)
+![screenshots of example app](https://i.imgur.com/hHJu9KV.png)
 
 ## Features
 
