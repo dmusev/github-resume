@@ -14,8 +14,8 @@ A mobile application built using React Native along with Expo
 
 - NodeJS
 - Expo
-- [iOS Simulator]:(https://docs.expo.io/versions/v36.0.0/workflow/ios-simulator/)
-- [Android Simulator]:(https://docs.expo.io/versions/v36.0.0/workflow/android-studio-emulator/)
+- [iOS Simulator](https://docs.expo.io/versions/v36.0.0/workflow/ios-simulator/)
+- [Android Simulator](https://docs.expo.io/versions/v36.0.0/workflow/android-studio-emulator)
 
 ## Setup instructions
 
